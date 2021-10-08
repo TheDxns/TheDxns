@@ -1,7 +1,9 @@
 <h1>Hi, I’m @TheDxns 👋</h1>
 <h2>I'm currently working as an IT Support Specialist at a large Automotive company. <br />
 While studying on the Opole University of Technology I have developed a passion towards software development. <br />
-There I've learned the basics of programming and software engineering and since then I'm expaning my knowledge by self-learning.<br />
+There I've learned the basics of programming and software engineering and since then I'm expaning my knowledge by self-learning. <br />
+For my current company I'm creating and maintaining software solutions in web technologies, Java and Spring Boot. <br />
+I have created a internal home page, content display solution and online forms which are used as an overlay for a Service Desk. <br />
 <br />
 <h2>I’m a big fan of Spring Boot :leaves:<br />
 and right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> project which is using Vue.js and Vuetify for the frontend and Spring Boot on the server side (with Keycloak as an authorization server).

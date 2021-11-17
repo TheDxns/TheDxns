@@ -6,7 +6,7 @@ For my current company I'm creating and maintaining software solutions in web te
 I have created a internal home page, content display solution and online forms which are used as an overlay for a Service Desk. <br />
 <br />
 <h2>I’m interested in backend technologies - especially development of web services and I'm a big fan of <a href="https://spring.io/projects">Spring Projects</a> :leaves:<br />
-and right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> project which is using Vue.js and Vuetify for the frontend and Spring Boot on the server side (with Keycloak as an authorization server).
+Right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> project which is using Vue.js and Vuetify for the frontend and Spring Boot on the server side (with Keycloak as an authorization server).
 </h2>
 
 <h1>Tech Stack</h1>

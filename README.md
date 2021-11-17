@@ -5,7 +5,7 @@ There I've learned the basics of programming and software engineering and since 
 For my current company I'm creating and maintaining software solutions in web technologies, Java and Spring Boot. <br />
 I have created a internal home page, content display solution and online forms which are used as an overlay for a Service Desk. <br />
 <br />
-<h2>I’m interested in backend technologies - especially development of web services and I'm a big fan of <a href="https://spring.io/projects">Spring Projects</a> :leaves:<br />
+<h2>I’m interested in backend technologies - especially development of web services and I'm a big fan of <a href="https://spring.io/projects">Spring Projects</a> :leaves:.<br />
 Right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> project which is using Vue.js and Vuetify for the frontend and Spring Boot on the server side (with Keycloak as an authorization server).
 </h2>
 

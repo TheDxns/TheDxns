@@ -8,7 +8,13 @@ I have created a internal home page, content display solution and online forms w
 <h2>I’m interested in backend technologies - especially development of web services and I'm a big fan of <a href="https://spring.io/projects">Spring Projects</a> :leaves:.<br />
 Right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> project which is using Vue.js and Vuetify for the frontend and Spring Boot on the server side (with Keycloak as an authorization server).
 </h2>
+  
+  <h1>Current project</h1>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDxns&repo=blog&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
+<br />
 <h1>Tech Stack</h1>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -19,7 +25,9 @@ Right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> pr
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 <br />
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDxns&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <h1>Stats</h1>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDxns&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <h1> How to reach me: <br />
 <ul>

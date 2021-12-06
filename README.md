@@ -11,7 +11,7 @@ Right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> pr
   
   <h1>Current project</h1>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDxns&repo=blog&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDxns&repo=blog&theme=dark)](https://github.com/TheDxns/blog)
 <br />
 
 <br />
@@ -27,7 +27,7 @@ Right now I'm working on a <a href="https://github.com/TheDxns/blog">blog</a> pr
 <br />
   <h1>Stats</h1>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDxns&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDxns&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/TheDxns)
 <br />
 <h1> How to reach me: <br />
 <ul>

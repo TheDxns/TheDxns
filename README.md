@@ -10,12 +10,13 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDxns&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/TheDxns)
 <br />
+<h1>Visionary, artist, father of innovation.</h1>
 <h2>
-  I am always happy to help in questions/projects related to Java and Spring Boot. <br />
-  Feel free to contact me. 
+  I'm never happy to help in questions/projects related to Java and Spring Boot. <br />
+  Don't even try to contact me, I won't reply. 
 </h2>
 
-<h2> How to reach me: <br />
+<h2> How NOT to reach me: <br />
 <ul>
 <li><a href="mailto:denis.lukasczyk@gmail.com">denis.lukasczyk@gmail.com</a> 📫</li>
 <li><a href="https://www.linkedin.com/in/denislukasczyk/">LinkedIn profile</a></li>
